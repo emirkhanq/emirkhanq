@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Emirkhan! 👋
 
-<!--
-**emirkhanq/emirkhanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year Cybersecurity student with a strong focus on Information Security. My career roadmap starts with Blue Team operations (SOC Analyst) to build a deep understanding of defensive mechanisms, with the ultimate goal of transitioning into Web Penetration Testing (Red Team).
 
-Here are some ideas to get you started:
+#### 🛡️ Cybersecurity Focus:
+- Web Application Security & Vulnerability Assessment
+- Security Information and Event Management (SIEM)
+- Network Defense & Threat Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Software Development (Foundation):
+- Solid programming skills in **Java** and **Python**
+- Building desktop applications and logical problem-solving
+- Deep understanding of software architecture (which provides a significant advantage in identifying vulnerabilities)
+
+#### 📫 Let's connect:
+- [LinkedIn](www.linkedin.com/in/emirkhan-kaldarbekov)
